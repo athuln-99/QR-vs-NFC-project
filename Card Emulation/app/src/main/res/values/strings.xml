@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Card Emulation</string>
+    <string name="servicedesc">Host Card Emulator Service</string>
+    <string name="aiddescription">Sample AID for testing</string>
+    <string name="ex_s12345678">Ex: 1234567</string>
+    <string name="ex_john_smith">Ex: John Smith</string>
+    <string name="student_number">Student Number (without S)</string>
+    <string name="name">Name</string>
+    <string name="submit_data">Submit Data</string>
+    <string name="transmit_data">Transmit Data</string>
+</resources>
