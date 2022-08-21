@@ -10,7 +10,7 @@ The "Card Reader" directory contains the code for the corresponding card reader 
 The directory can also be launched as a project using Android Studio. The code for this directory was based off of this repository and was adapted for ur specific project:
 https://github.com/mohamdaoui/SmartCardReader
 
-The check-box window feature was based off this repository and adapted for our specific purposes:
+The check-box window feature on the card reader app was based off this repository and adapted for our specific purposes:
 https://github.com/philipplackner/TodoList
 
  
