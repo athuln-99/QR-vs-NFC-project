@@ -9,6 +9,7 @@ https://github.com/mohamdaoui/HostCardEmulator
 The "Card Reader" directory contains the code for the corresponding card reader app that was made to read our card emulation app from another device.
 The directory can also be launched as a project using Android Studio. The code for this directory was based off of this repository and was adapted for ur specific project:
 https://github.com/mohamdaoui/SmartCardReader
+
 The check-box window feature was based off this repository and adapted for our specific purposes:
 https://github.com/philipplackner/TodoList
 
