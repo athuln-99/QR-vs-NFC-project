@@ -1,4 +1,4 @@
-# QR vs NFC honours project
+# QR vs NFC project
 Within this repository we divided the code by 3 folders for each app (or each pair of apps) that we developed.
 
 ## NFC Card Emulation App
