@@ -1,5 +1,6 @@
 # QR vs NFC project
-Within this repository we divided the code by 3 folders for each app (or each pair of apps) that we developed.
+Within this repository, we divided the code into 2 folders for each app (or each pair of apps) that we developed.
+The details of the project are detailed in _Honors_project_Report_NFC_vs_QR.pdf_.
 
 ## NFC Card Emulation App
 Within this directory we have two subdirectories. The "Card Emulation" directory contains the code for our card emulation app.
